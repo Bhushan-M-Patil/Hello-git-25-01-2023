@@ -1,2 +1,6 @@
 Hello pal and welcome to git.
-If you are seeing this then you are on write track.
+If you are seeing this then you are on right track.
+
+Already added 2 lines and now I am adding this new 3rd line 
+And here is forth line.
+Fifth line
