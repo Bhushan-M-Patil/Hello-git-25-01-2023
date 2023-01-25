@@ -1,0 +1,2 @@
+Hello pal and welcome to git.
+If you are seeing this then you are on write track.
